@@ -1,0 +1,5 @@
+Case 1,Dell,30,Vostro 3400
+Case 5,Sony,40,Samsung 3500
+Case 6,Samsung,35,Lenovo 3500
+Case 7,Apple,100,Vaio 3500
+Case 8,CR,80,Vaio 240

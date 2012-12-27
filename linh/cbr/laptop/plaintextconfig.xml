@@ -1,0 +1,18 @@
+<TextFileConfiguration>
+	<FilePath>linh/cbr/laptop/laptopData.txt</FilePath>
+	<Delimiters>,</Delimiters>
+	<DescriptionClassName>linh.cbr.laptop.LaptopDescription</DescriptionClassName>
+	<DescriptionMappings>
+		<Map>manufacture</Map>
+		<Map>speed</Map>
+		<Map>ram</Map>
+		<Map>sepalLength</Map>
+		<Map>sepalWidth</Map>
+		<Map>petalLength</Map>
+		<Map>petalWidth</Map>		
+	</DescriptionMappings>
+	<SolutionClassName>linh.cbr.laptop.LaptopSolution</SolutionClassName>
+	<SolutionMappings>
+		<Map>type</Map>
+	</SolutionMappings>
+</TextFileConfiguration>
